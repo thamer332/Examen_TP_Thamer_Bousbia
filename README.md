@@ -1,1 +1,1 @@
-# Examen_TP_Thamer_Bousbia
+Ce projet est utilisé pour l'évaluation des competences Git
